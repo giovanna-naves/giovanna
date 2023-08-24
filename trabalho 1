@@ -3,3 +3,4 @@ Um banco de dados é uma coleção organizada de informações - ou dados - estr
 Algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.
 NUVEM é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema.
 Dados digitais são dados que representam outras formas de dados usando sistemas específicos de linguagem de máquina que podem ser interpretados por várias tecnologias.
+Sistema de arquivo é um conjunto de estruturas lógicas, ou seja, feitas diretamente via software, que permite ao sistema operacional ter acesso e controlar os dados gravados no disco.
