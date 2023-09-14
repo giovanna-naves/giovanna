@@ -1,0 +1,5 @@
+Linguagens de programaçao e suas diferenças: 
+Python:É uma linguagem de propósito generalista. Tem um desing que enfatiza a legibilidade do código, com uma proposta de ser de fácil compeensão e com uso de palavras chaves em inglês.
+código mínimo: print("Hello world!")
+JavaScript: Linguagem compilada de alto nivel muito utilizada em sites front-end e no desenvolvimento de jogos. WordPress, Khan Academy, Linkedin e Groupon utilizam essa linguaem suas plataformas. Também é considerada uma otima linguagem para quem está começando no mundo da programação
+Java: É uma linguagem de alto nível projetada para ter o menor número possível de dependências de implementação. Dessa forma, os programadores escrevem o código uma única vez e ele pode ser executado em qualquer plataforma que comporte essa linguagem de promação.  
